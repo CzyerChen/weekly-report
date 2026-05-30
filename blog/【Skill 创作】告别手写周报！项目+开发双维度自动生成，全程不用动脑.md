@@ -266,9 +266,9 @@ python3 extract_commits.py --repo . --authors "你的名字"
 ```
 
 ## 六、Skill 链接
-- Skill.md：【https://github.com/CzyerChen/weekly-report/blob/main/SKILL.md】
-- Skill.zip：【https://github.com/CzyerChen/weekly-report/blob/main/releases/weekly-report.zip】
-- GitHub 地址：【https://github.com/CzyerChen/weekly-report】
+- Skill.md：https://github.com/CzyerChen/weekly-report/blob/main/SKILL.md
+- Skill.zip：https://github.com/CzyerChen/weekly-report/raw/main/zip/weekly-report.zip
+- GitHub 地址：https://github.com/CzyerChen/weekly-report
 - 完整设计文档：design.md
 
 ## 七、总结与思考
