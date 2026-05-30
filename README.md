@@ -80,7 +80,8 @@ weekly-report/
 模板：企业微信
 4. 直接生成完整报告
 
-![alt text](image-5.png)
+![alt text](../img/企业微信-周报生成-产品经理.png)
+![alt text](../img/企业微信-周报内容-产品经理.png)
 
 ### 技术/开发同学（项目+源码）
 1. 导出项目管理数据，例如：JIRA、TAPD、禅道等
@@ -93,7 +94,8 @@ weekly-report/
 角色：开发
 模板：企业微信
 
-![alt text](image-4.png)
+![alt text](../img/企业微信-周报生成-开发人员.png)
+![alt text](../img/企业微信-周报内容-开发人员.png)
 
 ### issues.csv 哪里来？
 
