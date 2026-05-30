@@ -80,8 +80,9 @@ weekly-report/
 模板：企业微信
 4. 直接生成完整报告
 
-![alt text](../img/企业微信-周报生成-产品经理.png)
-![alt text](../img/企业微信-周报内容-产品经理.png)
+![alt text](https://github.com/CzyerChen/weekly-report/blob/main/img/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1-%E5%91%A8%E6%8A%A5%E7%94%9F%E6%88%90-%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86.png?raw=true)
+
+![alt text](https://github.com/CzyerChen/weekly-report/blob/main/img/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1-%E5%91%A8%E6%8A%A5%E5%86%85%E5%AE%B9-%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86.png?raw=true)
 
 ### 技术/开发同学（项目+源码）
 1. 导出项目管理数据，例如：JIRA、TAPD、禅道等
@@ -94,8 +95,8 @@ weekly-report/
 角色：开发
 模板：企业微信
 
-![alt text](../img/企业微信-周报生成-开发人员.png)
-![alt text](../img/企业微信-周报内容-开发人员.png)
+![alt text](https://github.com/CzyerChen/weekly-report/blob/main/img/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1-%E5%91%A8%E6%8A%A5%E7%94%9F%E6%88%90-%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98.png?raw=true)
+![alt text](https://github.com/CzyerChen/weekly-report/blob/main/img/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1-%E5%91%A8%E6%8A%A5%E5%86%85%E5%AE%B9-%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98.png?raw=true)
 
 ### issues.csv 哪里来？
 
