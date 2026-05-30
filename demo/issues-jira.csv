@@ -1,0 +1,26 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project description,Project url,Priority,Resolution,Assignee,Reporter,Creator,Created,Updated,Last Viewed,Resolved,Affects Version/s,Fix Version/s,Component/s,Due Date,Votes,Labels,Description,Environment,Watchers,Watchers,Log Work,Original Estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Blocks),Attachment,Attachment,Custom field (Epic Colour),Custom field (Epic Link),Custom field (Epic Name),Custom field (Epic Status),Sprint,Custom field (Template),Custom field (原始故事点),Custom field (团队),Custom field (故事点),Custom field (父链接),Custom field (目标开始日期),Custom field (目标结束日期),Custom field (等级),Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment
+Doris慢查询告警,J2022,32410,任务,In Progress,,,software,,,,Medium,,chenziyan,chenziyan,chenziyan,2026/5/21 10:39,2026/5/29 9:46,2026/5/29 9:46,,,,,,0,,"三方接口>10秒
+",,chenziyan,,,,,,,,,,,,,,,,,,,,,,,,,,,27/May/26 10:41 AM;chenziyan;接口监控待上线;;;,"27/May/26 1:40 PM;chenziyan; !image-2026-05-27-13-41-09-547.png|thumbnail! 
+同步运维，告警同步到开发;;;",28/May/26 8:42 AM;chenziyan;接口已上线，三方接口大于15秒，有异常日志;;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+前端页面性能优化,J2021,32409,任务,In Progress,,,software,,,,Medium,,chenziyan,chenziyan,chenziyan,2026/5/20 17:09,2026/5/28 10:16,2026/5/21 11:11,,,,,,0,,"发现部分页面存在卡顿问题，需要排查并优化展示，排查接口性能问题
+
+ 
+
+1、分页 500 -> 100 
+
+2、加强页面搜索
+
+3、性能分析，排查前端页面效率或后端接口效率",,chenziyan,,,,,,,,,,,,,,,,,,,,,,,,,,,,"20/May/26 5:34 PM;chenziyan;支持搜索地址
+支持搜索省市;;;","21/May/26 2:43 PM;chenziyan;支持搜索地址
+日志增加sign
+----
+以上待上线;;;",25/May/26 8:37 AM;chenziyan;搜索待上线;;;,"28/May/26 10:16 AM;chenziyan;后续还能做的优化
+1、表格列合并或减少
+2、引入虚拟滚动
+3、请求接口防抖;;;",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+增加告警模式,J1986,32066,任务,In Progress,,,software,,,,Medium,,XXX,chenziyan,chenziyan,2026/4/22 14:12,2026/5/26 15:09,2026/5/26 13:18,,,,,,0,,尝试针对某些场景，增加电话或企微会议的通知方式,,chenziyan,,,,,,,,,,,,,,,,,,,,,,,,,,,30/Apr/26 5:19 PM;chenziyan;无特别需求,06/May/26 10:16 AM;chenziyan;仙人、限时无特殊需要配置的告警，目前群内即可;;;,07/May/26 10:33 AM;chenziyan;1、接入企微会议/电话告警能力,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MySQL优化,J1972,31977,改进,To Do,,,software,,,,Medium,,chenziyan,chenziyan,chenziyan,2026/4/17 8:55,2026/4/17 10:15,2026/5/29 10:30,,,,,,0,,"1、MySQL参数优化
+
+2、MySQL 索引优化
+
+3、MySQL冗余数据定期清理",,chenziyan,,,,,,,,,,,,,,,,,,,,,,,,,,,17/Apr/26 9:33 AM;chenziyan;目前检测的规则数据，占总量50%，计划优化这个流程;;;,17/Apr/26 10:15 AM;chenziyan;long_query_time = 5  -> 0.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

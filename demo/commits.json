@@ -1,0 +1,154 @@
+{
+  "repo": "~/files/work/report",
+  "since": "2026-05-25 00:00:00",
+  "until": "2026-05-29 23:59:59",
+  "authors": [
+    "Claire",
+    "chenziyan"
+  ],
+  "report_type": "weekly",
+  "generated_at": "2026-05-29 10:06:14",
+  "enriched": true,
+  "merged": true,
+  "commits": [
+    {
+      "hash": "48041ff310a4325c93f7b816926e437fda12d9ae",
+      "date": "2026-05-25",
+      "author": "Claire",
+      "message": "调整图表样式、纵坐标自适应",
+      "added_lines": 23,
+      "removed_lines": 10,
+      "files_changed": 1,
+      "changed_files": [
+        "report-frontend/src/views/analysis/index.vue"
+      ],
+      "branch": "dev",
+      "module": "analysis/index.vue/report-frontend",
+      "merged_count": 2,
+      "original_commits": [
+        "调整图表样式",
+        "纵坐标自适应"
+      ]
+    },
+    {
+      "hash": "26bf5fb157270d217e9268364f04a04961372239",
+      "date": "2026-05-25",
+      "author": "Claire",
+      "message": "修复新增异常",
+      "changed_files": [
+        "report-module/src/main/resources/mapping/AccountMapper.xml"
+      ],
+      "branch": "dev",
+      "module": "mapping/report-module",
+      "added_lines": 2,
+      "removed_lines": 0,
+      "files_changed": 1
+    },
+    {
+      "hash": "a43775e7d035dcb8bb06f97d786bd34378fbdf96",
+      "date": "2026-05-25",
+      "author": "Claire",
+      "message": "增加告警阈值",
+      "changed_files": [
+        "report-job/src/main/java/com/test/report/project/task/StatisticsTask.java",
+        "report-job/src/test/java/com/test/report/project/task/StatisticsTaskTest.java",
+        "report-service/src/main/java/com/test/report/service/StatisticsService.java",
+        "report-service/src/main/java/com/test/report/service/impl/StatisticsServiceImpl.java"
+      ],
+      "branch": "dev",
+      "module": "com/impl/project/test/report/report-job/report-service",
+      "added_lines": 33,
+      "removed_lines": 14,
+      "files_changed": 4
+    },
+    {
+      "hash": "310a128ffa4292d7b5f6c4a562ec6b804b599943",
+      "date": "2026-05-26",
+      "author": "Claire",
+      "message": "支持批量修改地址",
+      "changed_files": [
+        "report-frontend/src/views/test/index.vue",
+        "report-module/src/main/resources/mapping/test/DrGatewaysMapper.xml"
+      ],
+      "branch": "dev",
+      "module": "test/index.vue/mapping/test/views/report-frontend/report-module",
+      "added_lines": 116,
+      "removed_lines": 0,
+      "files_changed": 2
+    },
+    {
+      "hash": "d44829a43c5b5109d91ce4f330be81c87507dc9e",
+      "date": "2026-05-27",
+      "author": "Claire",
+      "message": "修复接口监控、增加HTTP请求监控",
+      "added_lines": 164,
+      "removed_lines": 3,
+      "files_changed": 4,
+      "changed_files": [
+        "report-job/src/main/java/com/test/framework/config/RestTemplateConfig.java",
+        "report-mgr/src/main/java/com/test/framework/config/RestTemplateConfig.java",
+        "report-mgr/src/main/java/com/test/framework/interceptor/ApiTimeCostInterceptor.java"
+      ],
+      "branch": "updatesql",
+      "module": "com/framework/interceptor/report-job/report-mgr",
+      "merged_count": 2,
+      "original_commits": [
+        "修复接口监控",
+        "增加HTTP请求监控"
+      ]
+    },
+    {
+      "hash": "ebcf6544af3b4d8e8aad3e2f67430bddd1ab4a1e",
+      "date": "2026-05-27",
+      "author": "Claire",
+      "message": "更新SQL",
+      "changed_files": [
+        "report/documents/sql/pg/sql_update_20260526.sql",
+        "report/documents/sql/pg/sql_update_20260527.sql"
+      ],
+      "branch": "dev",
+      "module": "documents/pg/sql/report",
+      "added_lines": 11,
+      "removed_lines": 1,
+      "files_changed": 2
+    },
+    {
+      "hash": "e4aaa35824bee8b03b68a0c5f50ec4562b1242ca",
+      "date": "2026-05-27",
+      "author": "Claire",
+      "message": "调整调价函内容",
+      "changed_files": [
+        "report-job/src/main/java/com/test/project/task/test/NoticeTask.java"
+      ],
+      "branch": "dev",
+      "module": "com/opensips/project/test/task/report-job",
+      "added_lines": 5,
+      "removed_lines": 5,
+      "files_changed": 1
+    },
+    {
+      "hash": "5aca7236344a64a50972d68a6f39f072b8161137",
+      "date": "2026-05-27",
+      "author": "chenziyan",
+      "message": "Merge branch 'feature/2022' into 'dev'",
+      "changed_files": [],
+      "branch": "dev",
+      "module": "",
+      "added_lines": 0,
+      "removed_lines": 0,
+      "files_changed": 0
+    },
+    {
+      "hash": "555a9ef22ced284c7ab62b887858affe9f85cf45",
+      "date": "2026-05-25",
+      "author": "chenziyan",
+      "message": "Merge branch 'feature/2006-3' into 'dev'",
+      "changed_files": [],
+      "branch": "dev",
+      "module": "",
+      "added_lines": 0,
+      "removed_lines": 0,
+      "files_changed": 0
+    }
+  ]
+}
